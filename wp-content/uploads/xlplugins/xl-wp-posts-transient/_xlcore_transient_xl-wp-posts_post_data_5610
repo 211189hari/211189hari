@@ -1,0 +1,218 @@
+a:2:{s:4:"time";i:1684844847;s:5:"value";O:7:"WP_Post":24:{s:2:"ID";i:5610;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2023-03-03 16:04:27";s:13:"post_date_gmt";s:19:"2023-03-03 16:04:27";s:12:"post_content";s:5977:"<div>
+<div class="css-116d6nl">
+<h2 class="css-10uhd90">Keunggulan Produk</h2>
+<div class="css-86glef">
+<div class="css-zmjj1a">
+<div>
+
+Blueprint bluetooth thermal receipt printer TMU-B250
+
+KODE PRODUK : BP-TMUB250
+
+High Speed 250mm/s , 2 connection ( USB +Bluetooth )
+
+Produk ini adalah printer bluetooth yang bekerja dengan cara memanaskan printheadnya untuk ngeprint di atas kertas thermal
+
+COCOK UNTUK :
+
+Printer Kasir, No antrian, Karcis tol, parkir, tiket pesawat
+
+FITUR :
+
+1. Kecepatan high speed ( 250mm/s )
+
+2. 2 Cara koneksi ( USB + Bluetooth )
+
+3. Garansi kepuasan pengguna 1 tahun
+
+ISI KOTAK :
+
+1. 1pcs Printer TMU B250
+
+2. 1pcs Kertas thermal 80 x 50
+
+3. 1pcs Kabel data 1pcs
+
+4. 1pcs Power Adaptor 1pcs
+
+5. 1pcs Buku petunjuk pemakaian
+
+6. 1pcs CD Driver
+
+JENIS PRINTER :
+
+Printer Thermal TMU B250
+
+JENIS KERTAS :
+
+Kertas Thermal ukuran 80mm dan 57mm
+
+SPESIFIKASI
+
+1. Kecepatan cetak: 250mm/detik
+
+2. Koneksi: usb + bluetooth
+
+3. dimensi: 176mm x 138mm x 129mm
+
+4. berat: 1.2kg
+
+5. Auto cutter: yes
+
+6. Daya tahan cetak prinhead: 150km
+
+7. Kertas roll : lebar kertas roll 79,5+0.5mm
+
+Diameter maksimum: 83mm
+
+Tebal kertas rol 0.06~0.8m
+
+8. Lebar cetak: 72mm / 64mm
+
+9. Dot pitch: 576 dots / line &amp; 512 dots / line
+
+10. Ukuran karakter: font A: 12x24dots  font B: 9x17 dots
+
+11. Power supply: dc 24v / 2.5a
+
+12. Power adaptor: input: ac:100-240v, 50-60hz, Output: dc24v / 2.5a
+
+13. Temparatur kerja:  temparatur 0~45°c kelemban: 10~80%
+
+14. Temparatur penyimpanan: temparatur 10~60°c kelembaban 10~90%
+
+15. Compatible all windows
+
+CARA PAKAI :
+
+Drivers, buku panduan dapat didownload di www.blueprint-indonesia.com
+
+A. Masukkan CD driver, pilih blueprint setup untuk memulai settingan printer
+
+B. Pilih OS yang sesuai, klik install printer driver
+
+C. Pilih Install Module TMU-B250, kemudian tekan next
+
+D. Pilih salah satu dari port USB001 - USB003, kemudian tekan install
+
+E. Selesai Instalasi, restart computer
+
+F. Setelah restart, pastikan "Use Printer Offline" tidak tercentang,
+
+Klik kanan di device TMU-B250 dan klik "See What's Printing" kemudian klik printer lalu hilangkan centangnya "Use Printer Offline"
+
+G. Pastikan printer bisa mencetak, pilih "Printer Properties" di "control panel -&gt; Hardware and sound -&gt; devices and printers" kemudian klik "Print Test Page"
+
+H. Apabila printer tidak berfungsi, ganti settingan USB Ports ke Ports USB lainnya di "TMU-B250 properties - ports", tekan Apply, lalu "Print Test Page" (ilustrasi G) sampai berhasil.
+
+I. Untuk menggunakan Bluetooth pastikan Bluetooth komputer sudah
+
+diaktifkan, kemudian klik "Add a device"
+
+J. Kemudian klik printer "TMU-B250" lalu klik "Next"
+
+K. Masukkan kode pairing 0000 dan tunggu instalasi selesai.
+
+L. Kemudian klik kanan di "TMU-B250" pilih properties, lalu klik "Hardware", lihat nomor port Bluetooth. Lalu pergi ke settingan printer.
+
+M. Ubah settingan port printer di printer dari USB ports menjadi COM ports sesuai dengan nama COM ports yang dilihat di informasi " TMU - B250 Properties " ( ilustrasi L )
+
+N. pastikan "Use Printer Offline" tidak tercentang (Ilustrasi F). Printer sudah bisa print dengan bluetooth.
+
+Untuk cara instalasi bisa lihat di website blueprint : www.blueprint-indonesia.com
+
+TROUBLE SHOOTING :
+
+A. Printer Tidak Bisa Mencetak
+
+Jika printer tidak bisa mencetak file, cek Portnya. Bila ingin menggunakan bluetooth maka port nya diganti menjadi COM port dan jika ingin menggunakan USB maka portnya diganti menjadi USB port dan pastikan "Use Printer Offline" tidak tercentang
+
+B. Mengeluarkan Kertas Yang Terjepit
+
+PERHATIAN :
+
+Jangan menyentuh kepala thermal karena mungkin dalam keadaan panas setelah mencetak.
+
+1. Matikan dan tekan tombol pembuka tutup.
+
+2. Keluarkan kertas yang terjepit, masukkan ulang kertas, dan tutuplah penutup.
+
+3. Jika kertas terjepit dalam pisau pemotong dan Anda tidak dapat membuka tutup printer, bukalah tutup pisau pemotong seperti ditunjukkan pada ilustrasi pemeliharaan pisau pemotong
+
+4. Buka penutup printer dan keluarkan kertas yang terjepit.
+
+C. Membersihkan Kepala Cetak
+
+Setelah mencetak, printhead akan menjadi sangat panas. Berhati-hati jangan sampai menyentuhnya. Biarkan dingin sebelum Anda membersihkannya. Jangan merusak kepala thermal dengan menyentuhnya dengan jari Anda atau benda keras lainnya.
+
+Matikan printer, bukalah penutup printer, dan bersihkan elemen thermal pada kepala thermal dengan menggunakan pembersih cotton yang dibasahi degan cairan alkohol (ethanol, methanol, atau IPA).
+
+D. Pengaturan Saat Ingin Print File
+
+Klik print -&gt; print properties -&gt; pilih paper source yang diinginkan
+
+2
+
+</div>
+<button data-testid="seo-click" aria-label="button-more">Selengkapnya</button></div>
+</div>
+</div>
+</div>
+<div>
+<div class="css-116d6nl">
+<h2 class="css-10uhd90">Spesifikasi</h2>
+<table class="css-14oykdy">
+<tbody>
+<tr>
+<td class="key">Metode Cetak</td>
+<td>Direct Thermal</td>
+</tr>
+<tr>
+<td class="key">Konektivitas</td>
+<td>
+<ul>
+ 	<li>USB</li>
+ 	<li>bluetooth</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="key">Dimensi Produk</td>
+<td>176mm x 138mm x 129mm</td>
+</tr>
+<tr>
+<td class="key">Berat Produk</td>
+<td>1.2kg</td>
+</tr>
+<tr>
+<td class="key">Lain-lain</td>
+<td>
+<ul>
+ 	<li>Auto cutter</li>
+ 	<li>Daya tahan cetak prinhead: 150km</li>
+ 	<li>Kecepatan cetak: 250mm/detik</li>
+ 	<li>Kertas roll : lebar kertas roll 79,5+0.5mm</li>
+ 	<li>Diameter maksimum: 83mm</li>
+ 	<li>Tebal kertas rol 0.06~0.8m</li>
+ 	<li>Lebar cetak: 72mm / 64mm</li>
+ 	<li>Dot pitch: 576 dots / line &amp; 512 dots / line</li>
+ 	<li>Ukuran karakter: font A: 12x24dots font B: 9x17 dots</li>
+ 	<li>Power supply: dc 24v / 2.5a</li>
+ 	<li>Power adaptor: input: ac:100-240v, 50-60hz, Output: dc24v / 2.5a</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>";s:10:"post_title";s:34:"BLUEPRINT Printer Thermal TMU-B250";s:12:"post_excerpt";s:470:"<ul>
+ 	<li>Kecepatan cetak: 250mm/detik</li>
+ 	<li>Koneksi: usb + bluetooth</li>
+ 	<li>Auto cutter: yes</li>
+ 	<li>Daya tahan cetak prinhead: 150km</li>
+ 	<li>Kertas roll : lebar kertas roll 79.5+0.5mm(Diameter maksimum: 83mm+Tebal kertas rol 0.06~0.8m)</li>
+ 	<li>Lebar cetak: 72mm / 64mm</li>
+ 	<li>Dot pitch: 576 dots / line &amp; 512 dots / line</li>
+ 	<li>Unit Utama</li>
+ 	<li>Free - 3322714146 KENZA Raket Nyamuk (Selama Persediaan masih ada)</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:34:"blueprint-printer-thermal-tmu-b250";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2023-04-03 16:07:11";s:17:"post_modified_gmt";s:19:"2023-04-03 16:07:11";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:58:"http://localhost/211189hari/?post_type=product&#038;p=5610";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

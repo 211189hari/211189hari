@@ -1,0 +1,12 @@
+2023-05-01T14:55:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\211189hari\wp-includes\functions.php pada baris 6651
+
+2023-05-01T14:55:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\211189hari\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskLists.php pada baris 398
+
+2023-05-01T14:55:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\211189hari\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php pada baris 97
+
+2023-05-01T15:00:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\211189hari\wp-includes\functions.php pada baris 6651
+
+2023-05-01T15:00:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\211189hari\wp-includes\Requests\src\Transport\Curl.php pada baris 205
+
+2023-05-01T15:03:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\211189hari\wp-includes\class-wpdb.php pada baris 2431
+
